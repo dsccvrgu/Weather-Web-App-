@@ -17,6 +17,7 @@
 ## About The Project
 
 This project is a web  application which displays weather data of any city in the world using APIs.It displays data like temperature , min temp,max temperature, humidity and wind speed. It is expected to expand the project to provide complete weather data to the user using good design.
+You can see the project hosted live on https://polar-anchorage-02401.herokuapp.com/weather
 
 
 
@@ -80,6 +81,6 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Bushra Shireen](https://www.linkedin.com/in/bushra-shireen-636b381b9/) - sbushra109@gmail.com
+Name - [Bushra Shireen](https://www.linkedin.com/in/bushra-shireen-636b381b9/) - sbushra109@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/Bushra109/Weather-web-app)
